@@ -1,0 +1,33 @@
+{
+  "name": "express-large-uploader",
+  "version": "1.0.0",
+  "description": "express large file upload",
+  "main": "lib/server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahkimkoo/express-large-uploader.git"
+  },
+  "keywords": [
+    "express",
+    "large",
+    "file",
+    "upload"
+  ],
+  "author": "Cherokee (successage@gmail.com)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ahkimkoo/express-large-uploader/issues"
+  },
+  "homepage": "https://github.com/ahkimkoo/express-large-uploader#readme",
+  "dependencies": {
+    "concat-files": "^0.1.1",
+    "formidable": "^1.2.1",
+    "fs-extra": "^6.0.1"
+  },
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}

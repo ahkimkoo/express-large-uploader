@@ -1,0 +1,33 @@
+.uploadfile_container{
+	width: 100%;
+	margin: auto;
+	display: none;
+	position: absolute;
+	z-index: 999;
+}
+
+.uploadfile_filed{
+	display: none;
+}
+
+.uploadfile_progress{
+	margin-top: 1rem;
+	width: 100%;
+	border-radius:0.5rem;
+	background: #F1EDED;
+	font-size: 1.6rem;
+}
+
+.uploadfile_progress_bar{
+	background: #BEBEBE;
+	width:1%;
+	min-width: 3rem;
+	text-align: center;
+	height: 2rem;
+	line-height: 2rem;
+	border-radius:0.5rem;
+	box-shadow: 0.3rem 0.3rem 0.1rem #888888;
+	font-size:1.2rem;
+	text-overflow: hidden;
+	overflow: hidden;
+}
