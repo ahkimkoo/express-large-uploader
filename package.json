@@ -1,6 +1,6 @@
 {
   "name": "express-large-uploader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "express large file upload",
   "main": "lib/server/index.js",
   "scripts": {
